@@ -13,9 +13,9 @@ Segmentation Accuracy: 100% of the dataset was successfully classified into Cons
 
 Projected Impact: Implementing the proposed "Fear Shield" strategy could theoretically reduce platform-wide capital liquidations by 15%.
 
-<img src="Avrage Trades Per Day.png" alt="Description of the screenshot" width="400"/>
+<img src="Avrage Trades Per Day.png" alt="Description of the screenshot" width="600"/>
 
-<img src="Profibility per sentiment group.png" alt="Description of the screenshot" width="400"/>
+<img src="Profibility per sentiment group.png" alt="Description of the screenshot" width="600"/>
 
 
 ## Top Actionable Insights
