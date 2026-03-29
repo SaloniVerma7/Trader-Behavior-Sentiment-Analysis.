@@ -13,6 +13,8 @@ Segmentation Accuracy: 100% of the dataset was successfully classified into Cons
 
 Projected Impact: Implementing the proposed "Fear Shield" strategy could theoretically reduce platform-wide capital liquidations by 15%.
 
+Avrage Trades Per Day.png
+
 ## Top Actionable Insights
 Fear Sensitivity: Market fear triggers "Panic Selling" in 65% of inconsistent traders, while "Pros" remain stable.
 
